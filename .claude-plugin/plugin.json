@@ -1,0 +1,9 @@
+{
+  "name": "data-pipeline-workflows",
+  "version": "0.1.0",
+  "description": "Architecture-first workflows for data engineers: pipeline design, dbt and Airflow review, and Spark/SQL performance tuning.",
+  "author": {
+    "name": "Data Engineering"
+  },
+  "keywords": ["data-engineering", "dbt", "airflow", "spark", "etl", "elt"]
+}
